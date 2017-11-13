@@ -1,6 +1,7 @@
 {"aflag":"1",
 "image":[
 "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor1.png",
+"https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor1.png",
 "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor2.png",
 "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor3.png",
 "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor4.png",
