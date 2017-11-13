@@ -1,4 +1,4 @@
-{"aflag":"0",
+{"aflag":"1",
 "image":[
 "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor1.png",
 "https://raw.githubusercontent.com/kingcut/kingcut.drawforkids/master/image/xcolor1.png",
